@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "358346822763",
+    "project_id": "connect-87169",
+    "storage_bucket": "connect-87169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358346822763:android:b1cb11055ed4db3c8ecd2e",
+        "android_client_info": {
+          "package_name": "rakib.hasan.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358346822763-jvomlap02t92k14i0hnv2gtvr6ca3oie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rakib.hasan.connect",
+            "certificate_hash": "d1da437298fde185c98981d02529e3f4c19215de"
+          }
+        },
+        {
+          "client_id": "358346822763-2nsk3v0716qhfdaf8i4ff7kfmjvaq5q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq6olgz5KCL16FYjN7EbAdI7TyvPBpfZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358346822763-2nsk3v0716qhfdaf8i4ff7kfmjvaq5q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

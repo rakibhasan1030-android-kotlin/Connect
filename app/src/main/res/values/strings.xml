@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="find">Find</string>
+    <string name="matching">Matching…</string>
+
+
+    <string name="permission_denied">Permission Denied.</string>
+    <string name="permission_granted">Permission Granted.</string>
+    <string name="rational_dialog_message_camera">Without this permission this app is unable to open camera for video call. Are you sure you want to deny this permission?</string>
+    <string name="rational_dialog_message_audio">Without this permission this app is unable to access your mic for video call. Are you sure you want to deny this permission?</string>
+    <string name="setting_dialog_message">Now you must allow camera access from settings.</string>
+
+
+</resources>

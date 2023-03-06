@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/circle.xml" value="0.328" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_app_icon.xml" value="0.1005" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1005" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.2605" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_mic_off_24.xml" value="0.2605" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3325" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.2605" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_baseline_videocam_off_24.xml" value="0.2605" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_google.xml" value="0.3325" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2605" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/activity_call.xml" value="0.33489583333333334" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/activity_login.xml" value="0.32974358974358975" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/activity_main.xml" value="0.33489583333333334" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/activity_matching.xml" value="0.33489583333333334" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/activity_splash.xml" value="0.2942708333333333" />
+        <entry key="..\:/GitHub/Connect/app/src/main/res/layout/demo.xml" value="0.33489583333333334" />
+        <entry key="..\:/GitHub/Meet/app/src/main/res/layout/activity_login.xml" value="0.32083333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
