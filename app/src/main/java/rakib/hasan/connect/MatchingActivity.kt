@@ -32,7 +32,8 @@ class MatchingActivity : AppCompatActivity() {
             .load(currentUser.photoUrl)
             .into(binding.profileImage);
 
-        database.reference.child("users")
+        database.reference
+            .child("users")
             .orderByChild("status")
             .equalTo(0.toDouble())
             .limitToFirst(1)
